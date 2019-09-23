@@ -6,9 +6,9 @@
 
 <p> This is change is to verify the Stage vs Production</p>>
 
-<p> This is test deployment to staging environment</p>>
-
 <p> This is ultimate</p>>
+
+<p> I got an overview of continuous polling,continuous integration,continuous delivery & continuous deployment</p>>
 
 </body>
 </html>
