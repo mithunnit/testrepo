@@ -1,5 +1,8 @@
 pipeline {
     agent any
+    environment {
+       MAVEN_HOME = 'C:\Program Files\apache-maven-3.6.1\bin'
+    }
     stages {
         stage ('Build Servlet Project') {
             steps {
